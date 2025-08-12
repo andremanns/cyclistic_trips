@@ -1,7 +1,7 @@
 -- Title: Start location vs avg ride duration
 -- Report Section: Data Validation
 
---------------------------------------------------------------
+===========================================================
 
 -- Start location vs avg ride duration: 1_5_1_outliers_lwr_removed
 SELECT
